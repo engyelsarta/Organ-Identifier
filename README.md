@@ -159,10 +159,4 @@ Contributions are welcome! To contribute:
 ## License
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 
----
 
-## Acknowledgements
-- The dataset used in this project was sourced from [Dataset Source].
-- Thanks to the open-source community for providing excellent tools and frameworks like TensorFlow and Keras.
-
-Feel free to open an issue if you have any questions or suggestions!
