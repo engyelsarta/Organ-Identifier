@@ -131,7 +131,9 @@ The model achieves high accuracy on both the validation and test datasets, demon
 ### Example Predictions
 Sample predictions on unseen images show the model’s ability to correctly classify organ categories even under challenging conditions such as variations in lighting, orientation, and resolution.
 
-![Brain Example](Screenshots/Brain.jpg)
+![Brain Example](Screenshot/Brain.jpg) ![Breast Example](Screenshot/Breast.jpg)
+
+![Chest Example](Screenshot/Chest.jpg) ![Limb Example](Screenshot/Limb.jpg)
 
 
 ---
